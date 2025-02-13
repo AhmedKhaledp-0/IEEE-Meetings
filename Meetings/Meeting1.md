@@ -96,25 +96,29 @@ An **IDE (Integrated Development Environment)** is a tool where developers write
 
 ## Hands-On Challenge
 
-### Task
+### Task: Create your First WebPage
 
-Modify the given HTML file by adding:
+#### Objective
+Create a webpage that demonstrates your understanding of essential HTML elements and basic webpage structure.
 
-- A second heading (`<h2>`) with any text.
-- A list (`<ul>` or `<ol>`) with at least three items.
-- An image (`<img>` tag) with a valid URL.
+#### Requirements
+Create an HTML file named `index.html` that includes:
 
-**Example Solution:**
+1. A proper HTML document structure:
+   - `<!DOCTYPE>`
+   - `<html>`
+   - `<head>`
+   - `<body>`
+2. A title for your webpage
+3. At least two different levels of headings
+4. A paragraph about your favorite hobby
+5. An unordered list of your top 3 favorite foods
+6. An ordered list of your daily routine (at least 3 items)
+7. An image (you can use any appropriate image)
+8. A link to your favorite website
 
-```html
-<h2>Why Learn Front-End Development?</h2>
-<ul>
-  <li>It is fun and creative!</li>
-  <li>It is in high demand.</li>
-  <li>It helps you build real-world projects.</li>
-</ul>
-<img src="https://via.placeholder.com/150" alt="Placeholder Image" />
-```
+#### Bonus
+- Search for Semantic HTML tags and use them
 
 ---
 
