@@ -99,9 +99,11 @@ An **IDE (Integrated Development Environment)** is a tool where developers write
 ### Task: Create your First WebPage
 
 #### Objective
+
 Create a webpage that demonstrates your understanding of essential HTML elements and basic webpage structure.
 
 #### Requirements
+
 Create an HTML file named `index.html` that includes:
 
 1. A proper HTML document structure:
@@ -118,6 +120,7 @@ Create an HTML file named `index.html` that includes:
 8. A link to your favorite website
 
 #### Bonus
+
 - Search for Semantic HTML tags and use them
 
 ---
