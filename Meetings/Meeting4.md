@@ -12,16 +12,16 @@ Git is a distributed version control system that tracks changes in any set of co
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows you to:
 
--   Revert files back to a previous state
--   Revert the entire project back to a previous state
--   Compare changes over time
--   See who last modified something that might be causing a problem
--   Who introduced an issue and when
+- Revert files back to a previous state
+- Revert the entire project back to a previous state
+- Compare changes over time
+- See who last modified something that might be causing a problem
+- Who introduced an issue and when
 
 ## Difference between Git and GitHub
 
--   **Git** is a version control system that lets you manage and keep track of your source code history.
--   **GitHub** is a cloud-based hosting service that lets you manage Git repositories. It provides a web-based graphical interface and adds many features including access control, collaboration features, bug tracking, feature requests, etc.
+- **Git** is a version control system that lets you manage and keep track of your source code history.
+- **GitHub** is a cloud-based hosting service that lets you manage Git repositories. It provides a web-based graphical interface and adds many features including access control, collaboration features, bug tracking, feature requests, etc.
 
 In simple terms, Git is the tool, GitHub is a service that hosts Git repositories.
 
@@ -32,57 +32,60 @@ In simple terms, Git is the tool, GitHub is a service that hosts Git repositorie
 1. Download Git from [Download git from here](https://git-scm.com/downloads)
 2. Run the installer with default options or your best preference
 3. Verify installation by opening a terminal/command prompt and typing:
-    ```bash
-    git --version
-    ```
+
+```bash
+git --version
+```
 
 ### For Linux
 
 1. For Debian/Ubuntu/Arch-based distributions:
 
-    ```bash
-    sudo apt-get update
-    sudo apt-get install git
-    ```
+   ```bash
+   sudo apt-get update
+   sudo apt-get install git
+   ```
 
-    For Fedora:
+   For Fedora:
 
-    ```bash
-    sudo dnf install git
-    ```
+   ```bash
+   sudo dnf install git
+   ```
 
-    For CentOS/RHEL:
+   For CentOS/RHEL:
 
-    ```bash
-    sudo yum install git
-    ```
+   ```bash
+   sudo yum install git
+   ```
 
-    For Arch/EndeavourOS/Manjaro
+   For Arch/EndeavourOS/Manjaro
 
-    ```bash
-    Sudo pacman -S git
-    ```
+   ```bash
+   Sudo pacman -S git
+   ```
 
 2. Verify installation:
-    ```bash
-    git --version
-    ```
+
+```bash
+git --version
+```
 
 ### For Mac
 
 1. Install using Homebrew (recommended):
 
-    ```bash
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    brew install git
-    ```
+   ```bash
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   brew install git
+   ```
 
-    Alternatively, download the installer from [git-scm.com](https://git-scm.com/downloads)
+   Alternatively, download the installer from [git-scm.com](https://git-scm.com/downloads)
 
 2. Verify installation:
-    ```bash
-    git --version
-    ```
+
+```bash
+git --version
+```
 
 ## Git Configuration
 
@@ -136,10 +139,10 @@ git commit -m "Your descriptive message about the changes"
 
 Branches are separate lines of development that allow you to work on different features or fixes simultaneously without affecting the main codebase (usually the main branch). Benefits include:
 
--   Work on features in isolation
--   Multiple developers can work simultaneously on different features
--   Experimentation without affecting the main codebase
--   Easier to manage releases and hot fixes
+- Work on features in isolation
+- Multiple developers can work simultaneously on different features
+- Experimentation without affecting the main codebase
+- Easier to manage releases and hot fixes
 
 ### git branch
 
@@ -275,8 +278,8 @@ git merge origin/branch    # Merges downloaded changes
 
 ### git fetch vs git pull
 
--   `git fetch` only downloads new data from the remote repository but doesn't integrate it into your working files
--   `git pull` is essentially a `git fetch` followed by a `git merge` - it downloads AND integrates changes
+- `git fetch` only downloads new data from the remote repository but doesn't integrate it into your working files
+- `git pull` is essentially a `git fetch` followed by a `git merge` - it downloads AND integrates changes
 
 ---
 
@@ -284,12 +287,12 @@ git merge origin/branch    # Merges downloaded changes
 
 GitHub is one of the most popular hosting services for Git repositories. It provides:
 
--   Hosting for repositories
--   Web interface for Git
--   Issue tracking
--   Pull requests for code review
--   Actions for continuous integration
--   Project management tools
+- Hosting for repositories
+- Web interface for Git
+- Issue tracking
+- Pull requests for code review
+- Actions for continuous integration
+- Project management tools
 
 ### git clone
 
@@ -307,9 +310,9 @@ As of August 13, 2021, GitHub no longer accepts password authentication for Git 
 
 A Personal Access Token is an alternative to using passwords for authentication to GitHub when using the GitHub API or the command line. PATs are more secure than passwords because:
 
--   They are specific to GitHub
--   They can be scoped to allow specific access permissions
--   They can be revoked at any time without needing to change your password
+- They are specific to GitHub
+- They can be scoped to allow specific access permissions
+- They can be revoked at any time without needing to change your password
 
 ### How to Generate a Personal Access Token
 
@@ -320,8 +323,8 @@ A Personal Access Token is an alternative to using passwords for authentication 
 5. Click "Generate new token" and select "Generate new token (classic)"
 6. Give your token a descriptive name
 7. Select the scopes (permissions) you want to grant this token
-    - For basic repository access, select "repo"
-    - For public repositories only, select "public_repo"
+   - For basic repository access, select "repo"
+   - For public repositories only, select "public_repo"
 8. Click "Generate token"
 9. Copy your new personal access token immediately! GitHub will only show it once.
 
@@ -375,7 +378,7 @@ Replace `TOKEN` with your actual Personal Access Token. For example:
 
 GitHub Pages is a free hosting service provided by GitHub that allows you to host static websites directly from your GitHub repository.
 
-### How to Set Up GitHub Pages:
+### How to Set Up GitHub Pages
 
 1. Create a repository named `username.github.io` (replace "username" with your GitHub username)
 2. Clone the repository to your local machine
@@ -397,7 +400,7 @@ The index.html page must include a line that says "Welcome to my web page I am [
 
 Use GitHub Pages to deploy your webpage.
 
-### Steps to Complete the Task:
+### Steps to Complete the Task
 
 1. Create a new repository locally using `git init`
 2. Create a structured index.html with semantic HTML
