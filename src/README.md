@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=/Meetings/index.html"> 
+<meta http-equiv="refresh" content="0; url=/IEEE-Meetings/Meetings/index.html"> 
