@@ -1,13 +1,13 @@
 # Summary
 
-- [**Meetings**](./Meetings.md)
-  - [Meeting 1](./Meeting1.md)
-  - [Meeting 1 Part 2](./Meeting1P2.md)
-  - [Meeting 2](./Meeting2.md)
-  - [Meeting 3](./Meeting3.md)
-  - [Meeting 4](./Meeting4.md)
-  - [Meeting 5](./Meeting5.md)
-  - [Meeting 5 Doc](./Meeting5Doc.md)
+- [**Meetings**](./Meetings/Meetings.md)
+  - [Meeting 1](./Meetings/Meeting1.md)
+  - [Meeting 1 Part 2](./Meetings/Meeting1P2.md)
+  - [Meeting 2](./Meetings/Meeting2.md)
+  - [Meeting 3](./Meetings/Meeting3.md)
+  - [Meeting 4](./Meetings/Meeting4.md)
+  - [Meeting 5](./Meetings/Meeting5.md)
+  - [Meeting 5 Doc](./Meetings/Meeting5Doc.md)
 
 ---
 

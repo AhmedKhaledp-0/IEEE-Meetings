@@ -8,7 +8,7 @@ This JavaScript track covers fundamental to advanced JavaScript concepts, buildi
 
 ## Meeting Sessions
 
-### [Meeting 1: Introduction to JavaScript](./Meeting1.md)
+### [Meeting 1: Introduction to JavaScript](./Meetings/Meeting1.md)
 
 > Welcome to the Fun Side of Coding
 
@@ -18,7 +18,7 @@ This JavaScript track covers fundamental to advanced JavaScript concepts, buildi
 - Working with numbers and text
 - Understanding JavaScript's role in web development
 
-### [Meeting 2: JavaScript Fundamentals](./Meeting2.md)
+### [Meeting 2: JavaScript Fundamentals](./Meetings/Meeting2.md)
 
 - Data types and variables
 - Operators and expressions
@@ -26,7 +26,7 @@ This JavaScript track covers fundamental to advanced JavaScript concepts, buildi
 - Functions basics
 - Scope and hoisting
 
-### [Meeting 3: DOM Manipulation](./Meeting3.md)
+### [Meeting 3: DOM Manipulation](./Meetings/Meeting3.md)
 
 - Document Object Model (DOM)
 - Selecting and modifying HTML elements
@@ -34,7 +34,7 @@ This JavaScript track covers fundamental to advanced JavaScript concepts, buildi
 - Dynamic content creation
 - Interactive web pages
 
-### [Meeting 4: Advanced JavaScript Concepts](./Meeting4.md)
+### [Meeting 4: Advanced JavaScript Concepts](./Meetings/Meeting4.md)
 
 - Objects and arrays
 - ES6+ features
@@ -69,7 +69,7 @@ By the end of this JavaScript track, you will be able to:
 
 ## 🔗 Navigation
 
-- [← Back to Main Meetings](../Meetings.md)
+- [← Back to Main Meetings](../Meetings/Meetings.md)
 - [Meeting Resources](../recordsLinks.md)
 
 ---
