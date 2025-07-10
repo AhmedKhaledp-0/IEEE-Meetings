@@ -1,6 +1,6 @@
 # Summary
 
-- [**Meetings**](./Meetings/Meetings.md)
+- [**Meetings**](./Meetings/README.md)
   - [Meeting 1](./Meetings/Meeting1.md)
   - [Meeting 1 Part 2](./Meetings/Meeting1P2.md)
   - [Meeting 2](./Meetings/Meeting2.md)
@@ -11,7 +11,7 @@
 
 ---
 
-- [**JS Meetings**](./js/JSmeetings.md)
+- [**JS Meetings**](./js/README.md)
     - [Meeting 1](./js/Meeting1.md)
     - [Meeting 2](./js/Meeting2.md)
     - [Meeting 3](./js/Meeting3.md)
