@@ -1,5 +1,7 @@
 # Summary
 
+[Redirect](./README.md)
+
 - [**Meetings**](./Meetings/README.md)
   - [Meeting 1](./Meetings/Meeting1.md)
   - [Meeting 1 Part 2](./Meetings/Meeting1P2.md)
