@@ -6,5 +6,7 @@ title = "IEEE-Meetings"
 
 
 [output.html]
+site-url = "/IEEE-Meetings/"
 git-repository-url = "https://github.com/AhmedKhaledp-0/IEEE-Meetings"
 git-repository-icon = "fa-github"
+default_theme = "navy"

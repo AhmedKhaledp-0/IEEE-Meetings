@@ -4,13 +4,13 @@ This repository contains materials and notes from our IEEE Front-End Development
 
 ## Meeting Schedule
 
-### [Meeting 1](./Meeting1.md)
+### [Meeting 1](/Meetings/Meeting1.md)
 
 - Introduction to Web Development
 - IDE Setup
 - Basic HTML Structure
 
-### [Meeting 1 Part 2](./Meeting1P2.md)
+### [Meeting 1 Part 2](/Meetings/Meeting1P2.md)
 
 - HTML Tags Documentation
 - Text Formatting
@@ -18,27 +18,27 @@ This repository contains materials and notes from our IEEE Front-End Development
 - Forms and Media
 - Semantic Elements
 
-### [Meeting 2](./Meeting2.md)
+### [Meeting 2](/Meetings/Meeting2.md)
 
 - Semantic HTML
 - HTML Forms & Inputs
 - Form Validation
 - Accessibility Basics
 
-### [Meeting 3](./Meeting3.md)
+### [Meeting 3](/Meetings/Meeting3.md)
 
 - Web Accessibility
 - ARIA Labels
 - Semantic HTML Best Practices
 - Accessibility Testing Tools
 
-### [Meeting 4](./Meeting4.md)
+### [Meeting 4](/Meetings/Meeting4.md)
 
 - Version control
 - Git & Github
 - GitPages
 
-### [Meeting 5 ,Meeting6,...](./Meeting5Doc.md)
+### [Meeting 5 ,Meeting6,...](/Meetings/Meeting5Doc.md)
 
 <!-- Future meetings will be added here -->
 
