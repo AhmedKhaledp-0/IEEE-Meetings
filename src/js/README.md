@@ -67,12 +67,6 @@ By the end of this JavaScript track, you will be able to:
 - [Codecademy JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)
 - [JavaScript30](https://javascript30.com/)
 
-## 🔗 Navigation
-
-- [← Back to Main Meetings](../)
-- [Main Repository README](../../README.md)
-- [Meeting Resources](../../recordsLinks.md)
-
 ---
 
 **Happy Coding!** 🎉
