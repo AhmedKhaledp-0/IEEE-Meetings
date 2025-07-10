@@ -70,7 +70,6 @@ By the end of this JavaScript track, you will be able to:
 ## 🔗 Navigation
 
 - [← Back to Main Meetings](../Meetings.md)
-- [Main Repository README](../../README.md)
 - [Meeting Resources](../recordsLinks.md)
 
 ---
