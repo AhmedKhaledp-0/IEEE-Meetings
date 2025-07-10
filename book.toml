@@ -1,5 +1,10 @@
 [book]
-authors = ["Mohamed-Badry"]
+authors = ["AhmedKhaledp-0"]
 language = "en"
 src = "src"
 title = "IEEE-Meetings"
+
+
+[output.html]
+git-repository-url = "https://github.com/AhmedKhaledp-0/IEEE-Meetings"
+git-repository-icon = "fa-github"
