@@ -1,4 +1,7 @@
 # IEEE Front-End Development Committee Meetings
+<img width="1654" height="952" alt="ahmedkhaledp-0 github io_IEEE-Meetings_Meetings_index html" src="https://github.com/user-attachments/assets/622bb504-302e-4450-ad2d-099e303c3828" />
+
+visit the notebook for better navigation [IEEE meetings](https://ahmedkhaledp-0.github.io/IEEE-Meetings/Meetings/index.html)
 
 This repository contains materials and notes from our IEEE Front-End Development committee meetings.
 
